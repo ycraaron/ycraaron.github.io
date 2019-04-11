@@ -1,4 +1,4 @@
-title: Aaron Yang / 是落拓呀
+title: He's Aaron / 是落拓呀
 description: Write code. Enjoy life.
 
 social:
@@ -9,7 +9,7 @@ social:
     img: /assets/images/v2ex.png
     url: https://www.v2ex.com/member/heisaaron?r=heisaaron
   - title: Zhihu
-    img: /assets/images/zhihu.png
+    img: /assets/images/zhihu.ico
     url: https://www.zhihu.com/people/yang-cheng-rui/posts
   - title: Bilibili
     img: /assets/images/bilibili.png
@@ -20,40 +20,28 @@ social:
 
 avatar: /assets/images/avatar.png
 introduction: >
-  Hi! My nickname is xcatliu.<br/>
-  中文昵称是流浪小猫，也可以叫我小猫。<br/>
-  Whenever you see this lovely cat, yeah that’s me!
-
-projects:
-  title: Open Source Projects
-  github:
-    - xcatliu/mobi.css
-    - xcatliu/typescript-tutorial
-    - xcatliu/react-ie8
-    - xcatliu/jekyllcn
-    - xcatliu/leetcode
-  content: >
-    <p>Other projects that I have contributed can be found in <a href="https://github.com/xcatliu">github.com/xcatliu</a>.</p>
-    <p>If you love my projects, please <a href="https://github.com/xcatliu/buy-me-a-coffee">buy me a coffee</a> to support me.</p>
+  Hi, there! I am Aaron<br/>
+  可以叫我落拓。<br/>
+  I write code, work out, shoot vlog, trying to live the life to the fullest.
+  热爱一切美好事物。 
 
 working:
   title: Working Experience
   timeline:
     - date: Now
-    - "Microsoft: Software Engineer II"
-    - date: 2016-04
-    - "Meituan: Senior Front-End Engineer"
-    - date: 2015-04
-    - "Meituan: Front-End Engineer"
-    - date: 2013-06
-    - "Meituan: Front-End Engineer Internship"
-    - date: 2012-10
+    - "Tiancai: Software Engineer"
+    - date: 2018-10
+    - "Ambi Labs: Backend Engineer"
+    - date: 2017-10
 
 education:
   title: Education Background
   timeline:
-    - date: 2013-06
-    - "Bachelor of WuHan University: Computer Science and Technology"
-    - date: 2009-09
+    - date: 2017-08
+    - "the University of Hong Kong, Master of Science In Computer science"
+    - date: 2015-09
+    - date: 2015-06
+    - "WuHan University, Bachelor of Engineer in Software Engineering"
+    - date: 2011-09
 
 google_analytics: UA-45256157-13
