@@ -1,22 +1,22 @@
-title: xcatliu / 流浪小猫
-description: A cat who writes code
+title: Aaron Yang / 是落拓呀
+description: Write code. Enjoy life.
 
 social:
   - title: GitHub
     img: /assets/images/github.ico
-    url: https://github.com/xcatliu
+    url: https://github.com/ycraaron
   - title: V2EX
     img: /assets/images/v2ex.png
-    url: https://www.v2ex.com/member/xcatliu?r=xcatliu
-  - title: Blog
-    img: /assets/images/avatar.png
-    url: http://blog.xcatliu.com
-  - title: Twitter
-    img: /assets/images/twitter.ico
-    url: https://twitter.com/xcatliu
+    url: https://www.v2ex.com/member/heisaaron?r=heisaaron
+  - title: Zhihu
+    img: /assets/images/zhihu.png
+    url: https://www.zhihu.com/people/yang-cheng-rui/posts
+  - title: Bilibili
+    img: /assets/images/bilibili.ico
+    url: https://space.bilibili.com/43276908
   - title: Gmail
     img: /assets/images/gmail.png
-    url: mailto:xcatliu@gmail.com
+    url: mailto:craaron102@gmail.com
 
 avatar: /assets/images/avatar.png
 introduction: >
