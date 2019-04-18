@@ -5,9 +5,9 @@ social:
   - title: GitHub
     img: /assets/images/github.ico
     url: https://github.com/ycraaron
-  - title: V2EX
-    img: /assets/images/v2ex.png
-    url: https://www.v2ex.com/member/heisaaron?r=heisaaron
+  - title: LinkedIn
+    img: /assets/images/linkedin.png
+    url: https://www.linkedin.com/in/craaronyang/
   - title: Zhihu
     img: /assets/images/zhihu.ico
     url: https://www.zhihu.com/people/yang-cheng-rui/posts
@@ -20,9 +20,9 @@ social:
 
 avatar: /assets/images/avatar.png
 introduction: >
-  Hi, there! I am Aaron<br/>
+  Hi, there! I am Aaron.<br/>
   可以叫我落拓。<br/>
-  I write code, work out, shoot vlog, trying to live the life to the fullest.
+  I write code, work out, shoot vlog, try to live the life to the fullest. <br/>
   热爱一切美好事物。 
 
 working:
@@ -38,8 +38,7 @@ education:
   title: Education Background
   timeline:
     - date: 2017-08
-    - "the University of Hong Kong, Master of Science In Computer science"
-    - date: 2015-09
+    - "The University of Hong Kong, Master of Science In Computer science"
     - date: 2015-06
     - "WuHan University, Bachelor of Engineer in Software Engineering"
     - date: 2011-09
